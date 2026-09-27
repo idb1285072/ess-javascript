@@ -1,0 +1,30 @@
+## Topics
+
+- Go through full JavaScript tutorial on W3Schools.
+- JavaScript Data types
+- Let, Const
+- Function, Call Back Function, Arrow Function, Recursive Function
+- Object
+- Array, Array Methods
+- Template Literals
+- Loops
+- Regular Expression
+- Scope
+- Strict Mode
+- Classes
+- Modules
+- JSON
+- Style Guide, Best Practices & Performance
+- Spread, Nullish, Optional Chaining Operators
+- Promise, Async & Await
+- Web History
+- Storage
+- Cookie
+- Fetch API
+- map, filter, reduce, find, findIndex, some
+- Event Loop
+- Event Handling (bubbling, delegation, etc.)
+- Memory Management Basics
+- Error Handling: try/catch, throw
+- DOM Manipulation & Traversal
+- Browser APIs
